@@ -1,0 +1,13 @@
+{
+  "name": "my-node-azure-function",
+  "version": "1.0.0",
+  "description": "A simple Node.js Azure Function App",
+  "main": "HttpTrigger/index.js",
+  "scripts": {
+    "start": "func start",
+    "build": "echo No build step required",
+    "test": "echo No tests yet"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
